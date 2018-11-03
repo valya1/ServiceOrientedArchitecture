@@ -1,0 +1,1 @@
+const val BULLETIN_BOARD = "bulletin_board"
